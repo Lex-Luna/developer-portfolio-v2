@@ -12,7 +12,7 @@ async function getData() {
   const res = await fetch(`https://dev.to/api/articles?username=${personalData.devUsername}`)
 
   if (!res.ok) {
-    throw new Error('Failed to fetch data')
+    throw new Error('No se pudieron obtener los artículos')
   }
 
   const data = await res.json();

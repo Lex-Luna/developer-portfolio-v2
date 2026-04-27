@@ -1,5 +1,5 @@
 <p align="center" width="100%">
-    <img height="100" src="https://github.com/said7388/developer-portfolio/assets/77630868/c0064908-cd5f-4751-a77c-eba90a62b55c">
+    <img height="100" src="./public/profile.png">
 </p>
 
 <h1 align="center">Developer Portfolio</h1>
@@ -39,8 +39,8 @@ A professional portfolio template built with **Next.js 16**, **React 19**, and *
 </p>
 
 <p align="center">
-  <a href="https://abusaid.netlify.app/" target="_blank">
-    <strong>🚀 View Live Demo</strong>
+  <a href="https://github.com/Lex-Luna/developer-portfolio-v2" target="_blank">
+    <strong>🚀 View Repository</strong>
   </a>
 </p>
 
@@ -329,7 +329,7 @@ profile: "/your-image-name.png"; // or .jpg, .webp
 
 ### 🚀 Deploy to Vercel (Recommended)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/said7388/developer-portfolio)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/Lex-Luna/developer-portfolio-v2)
 
 **Manual Deployment:**
 
@@ -350,7 +350,7 @@ profile: "/your-image-name.png"; // or .jpg, .webp
 
 ### 🌐 Deploy to Netlify
 
-[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/said7388/developer-portfolio)
+[![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/Lex-Luna/developer-portfolio-v2)
 
 **Manual Deployment:**
 
@@ -581,13 +581,13 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 ## Support :coffee:
 
-- ⭐ [Star the repository](https://github.com/said7388/developer-portfolio/stargazers)
-- � [Report bugs](https://github.com/said7388/developer-portfolio/issues)
-- � [Suggest features](https://github.com/said7388/developer-portfolio/discussions)
+- ⭐ [Star the repository](https://github.com/Lex-Luna/developer-portfolio-v2/stargazers)
+- � [Report bugs](https://github.com/Lex-Luna/developer-portfolio-v2/issues)
+- � [Suggest features](https://github.com/Lex-Luna/developer-portfolio-v2/discussions)
 
 ---
 
-![GitHub stars](https://img.shields.io/github/stars/said7388/developer-portfolio?style=social)
-![GitHub forks](https://img.shields.io/github/forks/said7388/developer-portfolio?style=social)
-![GitHub issues](https://img.shields.io/github/issues/said7388/developer-portfolio)
-![GitHub license](https://img.shields.io/github/license/said7388/developer-portfolio)
+![GitHub stars](https://img.shields.io/github/stars/Lex-Luna/developer-portfolio-v2?style=social)
+![GitHub forks](https://img.shields.io/github/forks/Lex-Luna/developer-portfolio-v2?style=social)
+![GitHub issues](https://img.shields.io/github/issues/Lex-Luna/developer-portfolio-v2)
+![GitHub license](https://img.shields.io/github/license/Lex-Luna/developer-portfolio-v2)

@@ -11,7 +11,7 @@ function Education() {
     <div id="education" className="relative z-50 border-t my-12 lg:my-24 border-[#25213b]">
       <Image
         src="/section.svg"
-        alt="Hero"
+        alt="Fondo de sección"
         width={1572}
         height={795}
         className="absolute top-0 -z-10"
@@ -26,7 +26,7 @@ function Education() {
         <div className="flex  items-center">
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
           <span className="bg-[#1a1443] w-fit text-white p-2 px-5 text-xl rounded-md">
-            Educations
+            Educación
           </span>
           <span className="w-24 h-[2px] bg-[#1a1443]"></span>
         </div>
@@ -48,7 +48,7 @@ function Education() {
                     <div className="p-3 relative text-white">
                       <Image
                         src="/blur-23.svg"
-                        alt="Hero"
+                        alt="Fondo de sección"
                         width={1080}
                         height={200}
                         className="absolute bottom-0 opacity-80"
