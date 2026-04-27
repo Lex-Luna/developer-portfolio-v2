@@ -1,8 +1,8 @@
 export const personalData = {
   name: "ALEXIS GABRIEL LUNA MONTALVO",
   profile: '/profile.png',
-  designation: "Full-Stack .NET Developer, Java Spring Boot, React, Mobile Developer",
-  description: "Ingeniero de Software Full-Stack con experiencia en .NET (ASP.NET Core, Xamarin.Forms) y Python (Django). Especializado en desarrollo web y móvil, administración de bases de datos SQL Server, PostgreSQL, MongoDB y Firebase. Trabajo en equipos ágiles con metodologías Scrum, apasionado por soluciones robustas y eficientes.",
+  designation: "Full-Stack .NET Developer, Java Spring Boot, React",
+  description: "Ingeniero de Software Full-Stack con experiencia en .NET (ASP.NET Core, Xamarin.Forms). Especializado en desarrollo web, administración de bases de datos SQL Server, PostgreSQL, MongoDB y Firebase. Trabajo en equipos ágiles con metodologías Scrum, apasionado por soluciones robustas y eficientes.",
   email: 'alexisgabriel.lu@gmail.com',
   phone: '+34 632111508',
   address: 'Madrid, Comunidad de Madrid, España',
